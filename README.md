@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Raymundo Ibañez Martinez 👋
 
-<!--
-**rzt300/rzt300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Architect of Control & Quality | Sysadmin → DevOps**
 
-Here are some ideas to get you started:
+I work in the banking sector specializing in automation and infrastructure.
+Currently transitioning into DevOps — building real-world skills one lab at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Current stack
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 🚀 Currently learning
+
+- Docker (completed) ✅
+- GitHub Actions & CI/CD pipelines 🔄
+- AWS (EC2, ECS, IAM, S3) ⏳
+- Kubernetes ⏳
+- Terraform ⏳
+
+---
+
+### 📂 Featured projects
+
+> Coming soon — hands-on DevOps labs and pipeline projects.
+
+---
+
+### 📍 México  |  🏦 Banking sector  |  🎯 Open to DevOps roles
